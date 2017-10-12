@@ -1,24 +1,21 @@
 //
-//  JDLOtherNewsViewController.m
+//  Test1ViewController.m
 //  ProjectFrame
 //
-//  Created by 胜炫电子 on 2017/10/11.
+//  Created by 胜炫电子 on 2017/10/12.
 //  Copyright © 2017年 BlueSkyer-25. All rights reserved.
 //
 
-#import "JDLOtherNewsViewController.h"
+#import "Test1ViewController.h"
 
-@interface JDLOtherNewsViewController ()
+@interface Test1ViewController ()
 
 @end
 
-@implementation JDLOtherNewsViewController
+@implementation Test1ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.view.backgroundColor = KPurpleColor;
-    
-    WMLog(@"66666====%@",self.content);
     // Do any additional setup after loading the view.
 }
 

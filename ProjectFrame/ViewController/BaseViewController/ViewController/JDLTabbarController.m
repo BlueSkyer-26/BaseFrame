@@ -8,8 +8,8 @@
 
 #import "JDLTabbarController.h"
 
-#import "JDLHomeViewController.h"
-#import "JDLNewsViewController.h"
+#import "Test1ViewController.h"
+#import "Test2ViewController.h"
 #import "Test3ViewController.h"
 #import "Test4ViewController.h"
 
@@ -53,10 +53,10 @@ static CGFloat const CYLTabBarControllerHeight = 40.f;
 }
 
 -(NSArray *)viewControllers{
-    JDLHomeViewController *home = [[JDLHomeViewController alloc] init];
+    Test1ViewController *home = [[Test1ViewController alloc] init];
     BaseNavigationController *navHome = [[BaseNavigationController alloc] initWithRootViewController:home];
     
-    JDLNewsViewController *city = [[JDLNewsViewController alloc] init];
+    Test2ViewController *city = [[Test2ViewController alloc] init];
     BaseNavigationController *navCity = [[BaseNavigationController alloc] initWithRootViewController:city];
     
     Test3ViewController *show = [[Test3ViewController alloc] init];

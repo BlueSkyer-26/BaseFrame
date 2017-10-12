@@ -7,10 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8203A1CF1F8E0EB80075E123 /* JDLSocietyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8203A1CE1F8E0EB80075E123 /* JDLSocietyViewController.m */; };
-		8203A1D21F8E0EDF0075E123 /* JDLOtherNewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8203A1D11F8E0EDF0075E123 /* JDLOtherNewsViewController.m */; };
 		820832CB1F7C82A700F9A5C4 /* JDLBaseService.m in Sources */ = {isa = PBXBuildFile; fileRef = 820832CA1F7C82A700F9A5C4 /* JDLBaseService.m */; };
-		820832D41F7C84A400F9A5C4 /* JDLHomeUIService.m in Sources */ = {isa = PBXBuildFile; fileRef = 820832D31F7C84A400F9A5C4 /* JDLHomeUIService.m */; };
 		820832DA1F7C962F00F9A5C4 /* JDLFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 820832D91F7C962500F9A5C4 /* JDLFactory.m */; };
 		820832ED1F7C96EA00F9A5C4 /* BaseButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 820832E31F7C96E500F9A5C4 /* BaseButton.m */; };
 		820832EE1F7C96ED00F9A5C4 /* BaseImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 820832DF1F7C96E500F9A5C4 /* BaseImageView.m */; };
@@ -22,8 +19,6 @@
 		820832F41F7C96FB00F9A5C4 /* BaseTranslucenView.m in Sources */ = {isa = PBXBuildFile; fileRef = 820832E01F7C96E500F9A5C4 /* BaseTranslucenView.m */; };
 		820832F51F7C96FF00F9A5C4 /* BaseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 820832EB1F7C96E600F9A5C4 /* BaseView.m */; };
 		820832F81F7C984100F9A5C4 /* UILabel+JLAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = 820832F71F7C984100F9A5C4 /* UILabel+JLAdd.m */; };
-		820832FB1F7C9CA800F9A5C4 /* JDLHomeNavigationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 820832FA1F7C9CA800F9A5C4 /* JDLHomeNavigationView.m */; };
-		820882141F7E1DC9000B898B /* JDLHomeScrollviewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 820882131F7E1DC9000B898B /* JDLHomeScrollviewCell.m */; };
 		820882241F7E2A78000B898B /* SDCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 820882171F7E2A72000B898B /* SDCollectionViewCell.m */; };
 		820882251F7E2A7B000B898B /* SDCycleScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 820882191F7E2A72000B898B /* SDCycleScrollView.m */; };
 		820882261F7E2A7E000B898B /* TAAbstractDotView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8208821B1F7E2A72000B898B /* TAAbstractDotView.m */; };
@@ -31,13 +26,10 @@
 		820882281F7E2A83000B898B /* TADotView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8208821F1F7E2A72000B898B /* TADotView.m */; };
 		820882291F7E2A86000B898B /* TAPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 820882211F7E2A72000B898B /* TAPageControl.m */; };
 		8208822A1F7E2A88000B898B /* UIView+SDExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 820882231F7E2A72000B898B /* UIView+SDExtension.m */; };
-		8208822D1F7E4484000B898B /* JDLHomeViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8208822C1F7E4484000B898B /* JDLHomeViewModel.m */; };
 		820882311F7E4753000B898B /* JDLRequestTools.m in Sources */ = {isa = PBXBuildFile; fileRef = 820882301F7E4753000B898B /* JDLRequestTools.m */; };
 		820882341F7F280A000B898B /* JDLJSONResponseSerializer.m in Sources */ = {isa = PBXBuildFile; fileRef = 820882331F7F280A000B898B /* JDLJSONResponseSerializer.m */; };
 		820882381F7F3005000B898B /* JDLLoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 820882371F7F3005000B898B /* JDLLoadingView.m */; };
 		8208823F1F7F345C000B898B /* JDLUserManagerCenetr.m in Sources */ = {isa = PBXBuildFile; fileRef = 8208823E1F7F345C000B898B /* JDLUserManagerCenetr.m */; };
-		820882421F7F3FB3000B898B /* JDLHomeScrollModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 820882411F7F3FB3000B898B /* JDLHomeScrollModel.m */; };
-		820882451F7F6598000B898B /* JDLListBaseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 820882441F7F6598000B898B /* JDLListBaseModel.m */; };
 		820882481F7F79B5000B898B /* UICollectionViewCell+updateModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 820882471F7F79B5000B898B /* UICollectionViewCell+updateModel.m */; };
 		821CDFC21F79E37200CC0AED /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 821CDFC11F79E37200CC0AED /* AppDelegate.m */; };
 		821CDFC81F79E37200CC0AED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 821CDFC61F79E37200CC0AED /* Main.storyboard */; };
@@ -75,8 +67,6 @@
 		82C8E4131F7A023200514591 /* UIView+WebCacheOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 821CE0211F79E6BB00CC0AED /* UIView+WebCacheOperation.m */; };
 		82C8E41A1F7A03A500514591 /* Test4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82C8E4191F7A03A500514591 /* Test4ViewController.m */; };
 		82C8E41D1F7A03B700514591 /* Test3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82C8E41C1F7A03B700514591 /* Test3ViewController.m */; };
-		82C8E4201F7A03C100514591 /* JDLNewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82C8E41F1F7A03C100514591 /* JDLNewsViewController.m */; };
-		82C8E4231F7A03CA00514591 /* JDLHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82C8E4221F7A03CA00514591 /* JDLHomeViewController.m */; };
 		82C8E4261F7A043600514591 /* JDLTabbarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82C8E4251F7A043600514591 /* JDLTabbarController.m */; };
 		82C8E4361F7A109B00514591 /* CYLPlusButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 82C8E42B1F7A108100514591 /* CYLPlusButton.m */; };
 		82C8E4371F7A10A100514591 /* CYLTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 82C8E4291F7A108100514591 /* CYLTabBar.m */; };
@@ -122,6 +112,8 @@
 		82EDFFF21F8F027700ABEF5A /* WMProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 82EDFFEB1F8F026500ABEF5A /* WMProgressView.m */; };
 		82EDFFF31F8F027B00ABEF5A /* WMScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 82EDFFED1F8F026500ABEF5A /* WMScrollView.m */; };
 		82EDFFF41F8F027D00ABEF5A /* WMPageController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82EDFFEF1F8F026500ABEF5A /* WMPageController.m */; };
+		82EDFFF71F8F059400ABEF5A /* Test2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82EDFFF61F8F059400ABEF5A /* Test2ViewController.m */; };
+		82EDFFFA1F8F05B200ABEF5A /* Test1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 82EDFFF91F8F05B200ABEF5A /* Test1ViewController.m */; };
 		EC868EB57815C516F6E063B6 /* libPods-ProjectFrame.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 98E605A65794CA82A91A360B /* libPods-ProjectFrame.a */; };
 /* End PBXBuildFile section */
 
@@ -144,14 +136,8 @@
 
 /* Begin PBXFileReference section */
 		64C7F0ED8618F18593D54FC0 /* Pods-ProjectFrame.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProjectFrame.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ProjectFrame/Pods-ProjectFrame.debug.xcconfig"; sourceTree = "<group>"; };
-		8203A1CD1F8E0EB80075E123 /* JDLSocietyViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLSocietyViewController.h; sourceTree = "<group>"; };
-		8203A1CE1F8E0EB80075E123 /* JDLSocietyViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLSocietyViewController.m; sourceTree = "<group>"; };
-		8203A1D01F8E0EDF0075E123 /* JDLOtherNewsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLOtherNewsViewController.h; sourceTree = "<group>"; };
-		8203A1D11F8E0EDF0075E123 /* JDLOtherNewsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLOtherNewsViewController.m; sourceTree = "<group>"; };
 		820832C91F7C82A700F9A5C4 /* JDLBaseService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLBaseService.h; sourceTree = "<group>"; };
 		820832CA1F7C82A700F9A5C4 /* JDLBaseService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLBaseService.m; sourceTree = "<group>"; };
-		820832D21F7C84A400F9A5C4 /* JDLHomeUIService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLHomeUIService.h; sourceTree = "<group>"; };
-		820832D31F7C84A400F9A5C4 /* JDLHomeUIService.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLHomeUIService.m; sourceTree = "<group>"; };
 		820832D81F7C962500F9A5C4 /* JDLFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLFactory.h; sourceTree = "<group>"; };
 		820832D91F7C962500F9A5C4 /* JDLFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLFactory.m; sourceTree = "<group>"; };
 		820832DB1F7C96E400F9A5C4 /* BaseButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseButton.h; sourceTree = "<group>"; };
@@ -174,10 +160,6 @@
 		820832EC1F7C96E600F9A5C4 /* BaseLabel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BaseLabel.m; sourceTree = "<group>"; };
 		820832F61F7C984100F9A5C4 /* UILabel+JLAdd.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UILabel+JLAdd.h"; sourceTree = "<group>"; };
 		820832F71F7C984100F9A5C4 /* UILabel+JLAdd.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UILabel+JLAdd.m"; sourceTree = "<group>"; };
-		820832F91F7C9CA800F9A5C4 /* JDLHomeNavigationView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLHomeNavigationView.h; sourceTree = "<group>"; };
-		820832FA1F7C9CA800F9A5C4 /* JDLHomeNavigationView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLHomeNavigationView.m; sourceTree = "<group>"; };
-		820882121F7E1DC9000B898B /* JDLHomeScrollviewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLHomeScrollviewCell.h; sourceTree = "<group>"; };
-		820882131F7E1DC9000B898B /* JDLHomeScrollviewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLHomeScrollviewCell.m; sourceTree = "<group>"; };
 		820882161F7E2A72000B898B /* SDCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SDCollectionViewCell.h; sourceTree = "<group>"; };
 		820882171F7E2A72000B898B /* SDCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SDCollectionViewCell.m; sourceTree = "<group>"; };
 		820882181F7E2A72000B898B /* SDCycleScrollView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SDCycleScrollView.h; sourceTree = "<group>"; };
@@ -192,8 +174,6 @@
 		820882211F7E2A72000B898B /* TAPageControl.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TAPageControl.m; sourceTree = "<group>"; };
 		820882221F7E2A72000B898B /* UIView+SDExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+SDExtension.h"; sourceTree = "<group>"; };
 		820882231F7E2A72000B898B /* UIView+SDExtension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+SDExtension.m"; sourceTree = "<group>"; };
-		8208822B1F7E4484000B898B /* JDLHomeViewModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLHomeViewModel.h; sourceTree = "<group>"; };
-		8208822C1F7E4484000B898B /* JDLHomeViewModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLHomeViewModel.m; sourceTree = "<group>"; };
 		8208822F1F7E4753000B898B /* JDLRequestTools.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLRequestTools.h; sourceTree = "<group>"; };
 		820882301F7E4753000B898B /* JDLRequestTools.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLRequestTools.m; sourceTree = "<group>"; };
 		820882321F7F280A000B898B /* JDLJSONResponseSerializer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLJSONResponseSerializer.h; sourceTree = "<group>"; };
@@ -202,10 +182,6 @@
 		820882371F7F3005000B898B /* JDLLoadingView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLLoadingView.m; sourceTree = "<group>"; };
 		8208823D1F7F345C000B898B /* JDLUserManagerCenetr.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLUserManagerCenetr.h; sourceTree = "<group>"; };
 		8208823E1F7F345C000B898B /* JDLUserManagerCenetr.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLUserManagerCenetr.m; sourceTree = "<group>"; };
-		820882401F7F3FB3000B898B /* JDLHomeScrollModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLHomeScrollModel.h; sourceTree = "<group>"; };
-		820882411F7F3FB3000B898B /* JDLHomeScrollModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLHomeScrollModel.m; sourceTree = "<group>"; };
-		820882431F7F6598000B898B /* JDLListBaseModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLListBaseModel.h; sourceTree = "<group>"; };
-		820882441F7F6598000B898B /* JDLListBaseModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLListBaseModel.m; sourceTree = "<group>"; };
 		820882461F7F79B5000B898B /* UICollectionViewCell+updateModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UICollectionViewCell+updateModel.h"; sourceTree = "<group>"; };
 		820882471F7F79B5000B898B /* UICollectionViewCell+updateModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UICollectionViewCell+updateModel.m"; sourceTree = "<group>"; };
 		821CDFBD1F79E37200CC0AED /* ProjectFrame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProjectFrame.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -281,10 +257,6 @@
 		82C8E4191F7A03A500514591 /* Test4ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test4ViewController.m; sourceTree = "<group>"; };
 		82C8E41B1F7A03B700514591 /* Test3ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test3ViewController.h; sourceTree = "<group>"; };
 		82C8E41C1F7A03B700514591 /* Test3ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test3ViewController.m; sourceTree = "<group>"; };
-		82C8E41E1F7A03C100514591 /* JDLNewsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLNewsViewController.h; sourceTree = "<group>"; };
-		82C8E41F1F7A03C100514591 /* JDLNewsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLNewsViewController.m; sourceTree = "<group>"; };
-		82C8E4211F7A03CA00514591 /* JDLHomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLHomeViewController.h; sourceTree = "<group>"; };
-		82C8E4221F7A03CA00514591 /* JDLHomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLHomeViewController.m; sourceTree = "<group>"; };
 		82C8E4241F7A043600514591 /* JDLTabbarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JDLTabbarController.h; sourceTree = "<group>"; };
 		82C8E4251F7A043600514591 /* JDLTabbarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JDLTabbarController.m; sourceTree = "<group>"; };
 		82C8E4271F7A108100514591 /* UIView+CYLTabBarControllerExtention.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+CYLTabBarControllerExtention.h"; sourceTree = "<group>"; };
@@ -379,6 +351,10 @@
 		82EDFFED1F8F026500ABEF5A /* WMScrollView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WMScrollView.m; sourceTree = "<group>"; };
 		82EDFFEE1F8F026500ABEF5A /* WMPageController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WMPageController.h; sourceTree = "<group>"; };
 		82EDFFEF1F8F026500ABEF5A /* WMPageController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WMPageController.m; sourceTree = "<group>"; };
+		82EDFFF51F8F059400ABEF5A /* Test2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test2ViewController.h; sourceTree = "<group>"; };
+		82EDFFF61F8F059400ABEF5A /* Test2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test2ViewController.m; sourceTree = "<group>"; };
+		82EDFFF81F8F05B200ABEF5A /* Test1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test1ViewController.h; sourceTree = "<group>"; };
+		82EDFFF91F8F05B200ABEF5A /* Test1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test1ViewController.m; sourceTree = "<group>"; };
 		98E605A65794CA82A91A360B /* libPods-ProjectFrame.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ProjectFrame.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1103489F41B0264E644B0D3 /* Pods-ProjectFrame.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ProjectFrame.release.xcconfig"; path = "Pods/Target Support Files/Pods-ProjectFrame/Pods-ProjectFrame.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -418,43 +394,6 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		8203A1C81F8E010A0075E123 /* News */ = {
-			isa = PBXGroup;
-			children = (
-				8203A1CB1F8E01330075E123 /* View */,
-				8203A1CA1F8E01280075E123 /* Controller */,
-				8203A1C91F8E011D0075E123 /* Model */,
-			);
-			path = News;
-			sourceTree = "<group>";
-		};
-		8203A1C91F8E011D0075E123 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		8203A1CA1F8E01280075E123 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				82C8E41E1F7A03C100514591 /* JDLNewsViewController.h */,
-				82C8E41F1F7A03C100514591 /* JDLNewsViewController.m */,
-				8203A1CD1F8E0EB80075E123 /* JDLSocietyViewController.h */,
-				8203A1CE1F8E0EB80075E123 /* JDLSocietyViewController.m */,
-				8203A1D01F8E0EDF0075E123 /* JDLOtherNewsViewController.h */,
-				8203A1D11F8E0EDF0075E123 /* JDLOtherNewsViewController.m */,
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		8203A1CB1F8E01330075E123 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
 		820832C81F7C828800F9A5C4 /* Model */ = {
 			isa = PBXGroup;
 			children = (
@@ -481,59 +420,6 @@
 				82C8E43E1F7A186300514591 /* JDLTabbarPlusButton.m */,
 			);
 			path = ViewController;
-			sourceTree = "<group>";
-		};
-		820832CD1F7C845000F9A5C4 /* Home */ = {
-			isa = PBXGroup;
-			children = (
-				820832CE1F7C846800F9A5C4 /* Model */,
-				820832CF1F7C846F00F9A5C4 /* View */,
-				820832D01F7C847500F9A5C4 /* Controller */,
-				820832D11F7C847C00F9A5C4 /* ViewModel */,
-			);
-			path = Home;
-			sourceTree = "<group>";
-		};
-		820832CE1F7C846800F9A5C4 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				820882401F7F3FB3000B898B /* JDLHomeScrollModel.h */,
-				820882411F7F3FB3000B898B /* JDLHomeScrollModel.m */,
-				820882431F7F6598000B898B /* JDLListBaseModel.h */,
-				820882441F7F6598000B898B /* JDLListBaseModel.m */,
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		820832CF1F7C846F00F9A5C4 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				820832F91F7C9CA800F9A5C4 /* JDLHomeNavigationView.h */,
-				820832FA1F7C9CA800F9A5C4 /* JDLHomeNavigationView.m */,
-				820882121F7E1DC9000B898B /* JDLHomeScrollviewCell.h */,
-				820882131F7E1DC9000B898B /* JDLHomeScrollviewCell.m */,
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
-		820832D01F7C847500F9A5C4 /* Controller */ = {
-			isa = PBXGroup;
-			children = (
-				82C8E4211F7A03CA00514591 /* JDLHomeViewController.h */,
-				82C8E4221F7A03CA00514591 /* JDLHomeViewController.m */,
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		820832D11F7C847C00F9A5C4 /* ViewModel */ = {
-			isa = PBXGroup;
-			children = (
-				820832D21F7C84A400F9A5C4 /* JDLHomeUIService.h */,
-				820832D31F7C84A400F9A5C4 /* JDLHomeUIService.m */,
-				8208822B1F7E4484000B898B /* JDLHomeViewModel.h */,
-				8208822C1F7E4484000B898B /* JDLHomeViewModel.m */,
-			);
-			path = ViewModel;
 			sourceTree = "<group>";
 		};
 		820832D61F7C947300F9A5C4 /* View */ = {
@@ -743,8 +629,8 @@
 				820882391F7F33EE000B898B /* Main(管理类) */,
 				82C8E4171F7A038400514591 /* Test4 */,
 				82C8E4161F7A037C00514591 /* Test3 */,
-				82C8E4151F7A034E00514591 /* News */,
-				82C8E4141F7A033F00514591 /* Home */,
+				82C8E4151F7A034E00514591 /* Test2 */,
+				82C8E4141F7A033F00514591 /* Test1 */,
 				821CE0441F79E9E900CC0AED /* BaseViewController */,
 			);
 			path = ViewController;
@@ -875,20 +761,22 @@
 			path = Category;
 			sourceTree = "<group>";
 		};
-		82C8E4141F7A033F00514591 /* Home */ = {
+		82C8E4141F7A033F00514591 /* Test1 */ = {
 			isa = PBXGroup;
 			children = (
-				820832CD1F7C845000F9A5C4 /* Home */,
+				82EDFFF81F8F05B200ABEF5A /* Test1ViewController.h */,
+				82EDFFF91F8F05B200ABEF5A /* Test1ViewController.m */,
 			);
-			path = Home;
+			path = Test1;
 			sourceTree = "<group>";
 		};
-		82C8E4151F7A034E00514591 /* News */ = {
+		82C8E4151F7A034E00514591 /* Test2 */ = {
 			isa = PBXGroup;
 			children = (
-				8203A1C81F8E010A0075E123 /* News */,
+				82EDFFF51F8F059400ABEF5A /* Test2ViewController.h */,
+				82EDFFF61F8F059400ABEF5A /* Test2ViewController.m */,
 			);
-			path = News;
+			path = Test2;
 			sourceTree = "<group>";
 		};
 		82C8E4161F7A037C00514591 /* Test3 */ = {
@@ -1319,7 +1207,7 @@
 				82C8E40B1F7A021C00514591 /* SDWebImageManager.m in Sources */,
 				82C8E3F51F7A014F00514591 /* MBProgressHUD+Show.m in Sources */,
 				82C8E49B1F7B397F00514591 /* HeaderModel.m in Sources */,
-				820832FB1F7C9CA800F9A5C4 /* JDLHomeNavigationView.m in Sources */,
+				82EDFFFA1F8F05B200ABEF5A /* Test1ViewController.m in Sources */,
 				820882261F7E2A7E000B898B /* TAAbstractDotView.m in Sources */,
 				82C8E4821F7A4FE200514591 /* MJRefreshAutoStateFooter.m in Sources */,
 				82C8E4891F7A500200514591 /* MJRefreshAutoFooter.m in Sources */,
@@ -1343,7 +1231,6 @@
 				820832F81F7C984100F9A5C4 /* UILabel+JLAdd.m in Sources */,
 				820832F11F7C96F300F9A5C4 /* BaseTableViewCell.m in Sources */,
 				820882381F7F3005000B898B /* JDLLoadingView.m in Sources */,
-				8203A1D21F8E0EDF0075E123 /* JDLOtherNewsViewController.m in Sources */,
 				82EDFFF31F8F027B00ABEF5A /* WMScrollView.m in Sources */,
 				82C8E47C1F7A4FC300514591 /* NSBundle+MJRefresh.m in Sources */,
 				82C8E4101F7A022B00514591 /* UIImage+WebP.m in Sources */,
@@ -1353,10 +1240,8 @@
 				82C8E4861F7A4FF500514591 /* MJRefreshGifHeader.m in Sources */,
 				820832DA1F7C962F00F9A5C4 /* JDLFactory.m in Sources */,
 				82EDFFF11F8F027500ABEF5A /* WMMenuView.m in Sources */,
-				820832D41F7C84A400F9A5C4 /* JDLHomeUIService.m in Sources */,
 				82C8E4851F7A4FEE00514591 /* MJRefreshBackStateFooter.m in Sources */,
 				82C8E4061F7A020C00514591 /* SDImageCache.m in Sources */,
-				8203A1CF1F8E0EB80075E123 /* JDLSocietyViewController.m in Sources */,
 				82C8E47E1F7A4FC900514591 /* UIScrollView+MJRefresh.m in Sources */,
 				82C8E4AB1F7B52B100514591 /* JDLShowFPS.m in Sources */,
 				82C8E4881F7A4FFA00514591 /* MJRefreshStateHeader.m in Sources */,
@@ -1365,7 +1250,6 @@
 				82C8E40A1F7A021800514591 /* SDWebImageDownloaderOperation.m in Sources */,
 				82C8E4111F7A022D00514591 /* UIImageView+HighlightedWebCache.m in Sources */,
 				82C8E4421F7A342100514591 /* AppDelegate+AppService.m in Sources */,
-				820882141F7E1DC9000B898B /* JDLHomeScrollviewCell.m in Sources */,
 				820832CB1F7C82A700F9A5C4 /* JDLBaseService.m in Sources */,
 				82C8E4A71F7B47CC00514591 /* AdPageView.m in Sources */,
 				820882291F7E2A86000B898B /* TAPageControl.m in Sources */,
@@ -1374,6 +1258,7 @@
 				82C8E3FB1F7A018D00514591 /* UINavigationBar+alpha.m in Sources */,
 				8208822A1F7E2A88000B898B /* UIView+SDExtension.m in Sources */,
 				82C8E47F1F7A4FCD00514591 /* UIView+MJExtension.m in Sources */,
+				82EDFFF71F8F059400ABEF5A /* Test2ViewController.m in Sources */,
 				82C8E48A1F7A500400514591 /* MJRefreshBackFooter.m in Sources */,
 				82C8E3F61F7A015200514591 /* MBProgressHUD.m in Sources */,
 				82C8E4051F7A020900514591 /* NSData+ImageContentType.m in Sources */,
@@ -1390,14 +1275,10 @@
 				82C8E43A1F7A10A900514591 /* UITabBarItem+CYLTabBarControllerExtention.m in Sources */,
 				82C8E4831F7A4FEA00514591 /* MJRefreshBackGifFooter.m in Sources */,
 				82C8E4081F7A021200514591 /* SDWebImageDecoder.m in Sources */,
-				820882451F7F6598000B898B /* JDLListBaseModel.m in Sources */,
 				82C8E43B1F7A10AC00514591 /* UIView+CYLTabBarControllerExtention.m in Sources */,
 				820882341F7F280A000B898B /* JDLJSONResponseSerializer.m in Sources */,
 				820832EF1F7C96EF00F9A5C4 /* BaseLabel.m in Sources */,
-				8208822D1F7E4484000B898B /* JDLHomeViewModel.m in Sources */,
-				82C8E4231F7A03CA00514591 /* JDLHomeViewController.m in Sources */,
 				82C8E4A31F7B43EA00514591 /* AppManager.m in Sources */,
-				820882421F7F3FB3000B898B /* JDLHomeScrollModel.m in Sources */,
 				821CDFCB1F79E37200CC0AED /* ProjectFrame.xcdatamodeld in Sources */,
 				821CE0471F79EA1600CC0AED /* BaseNavigationController.m in Sources */,
 				82C8E4261F7A043600514591 /* JDLTabbarController.m in Sources */,
@@ -1405,7 +1286,6 @@
 				82C8E4AF1F7B58DA00514591 /* UserGuideViewController.m in Sources */,
 				82C8E43C1F7A10B000514591 /* UIViewController+CYLTabBarControllerExtention.m in Sources */,
 				82C8E40C1F7A022100514591 /* SDWebImagePrefetcher.m in Sources */,
-				82C8E4201F7A03C100514591 /* JDLNewsViewController.m in Sources */,
 				82C8E4041F7A020600514591 /* MKAnnotationView+WebCache.m in Sources */,
 				820882241F7E2A78000B898B /* SDCollectionViewCell.m in Sources */,
 				82C8E4381F7A10A400514591 /* CYLTabBarController.m in Sources */,

@@ -1,22 +1,21 @@
 //
-//  JDLSocietyViewController.m
+//  Test2ViewController.m
 //  ProjectFrame
 //
-//  Created by 胜炫电子 on 2017/10/11.
+//  Created by 胜炫电子 on 2017/10/12.
 //  Copyright © 2017年 BlueSkyer-25. All rights reserved.
 //
 
-#import "JDLSocietyViewController.h"
+#import "Test2ViewController.h"
 
-@interface JDLSocietyViewController ()
+@interface Test2ViewController ()
 
 @end
 
-@implementation JDLSocietyViewController
+@implementation Test2ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.view.backgroundColor = KOrangeColor;
     // Do any additional setup after loading the view.
 }
 
